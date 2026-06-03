@@ -5,8 +5,8 @@
 
 ## 🧠 My Focus Areas
 
-- Development
-- Cybersecurity <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="18" />
+- Development 💻 
+- Cybersecurity<img src="https://www.kali.org/images/kali-dragon-icon.svg" width="18" />
 
 ## 🛠️ Languages & Tools
 
