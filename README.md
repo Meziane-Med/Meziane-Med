@@ -2,11 +2,10 @@
   Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Mo
 </h1>
 
-
 ## 🧠 My Focus Areas
 
-- Development 💻 
-- Cybersecurity<img src="https://www.kali.org/images/kali-dragon-icon.svg" width="18" />
+- 💻 Development  
+- <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="18" style="vertical-align:middle;" /> Cybersecurity
 
 ## 🛠️ Languages & Tools
 
