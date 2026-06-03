@@ -1,6 +1,7 @@
 <h1 align="center">
   Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Mo
 </h1>
+https://img.shields.io/badge/Development-000000?style=for-the-badge&logo=code&logoColor=white
 
 ## 🧠 My Focus Areas
 
