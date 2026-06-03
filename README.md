@@ -5,18 +5,8 @@
 
 ## 🧠 My Focus Areas
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" width="18" /> Development
-- <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="18" /> Security & Cybersecurity
-
-## 🧠 My Focus Areas
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/developer/developer-plain.svg" width="18" /> Development  
-- <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="18" /> Security & Cybersecurity 
-
-## 🧠 My Focus Areas
-
 - Development
-- Cybersecurity
+- Cybersecurity <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="18" />
 
 ## 🛠️ Languages & Tools
 
