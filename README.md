@@ -1,7 +1,12 @@
 <h1 align="center">
   Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Mo
 </h1>
-https://img.shields.io/badge/Development-000000?style=for-the-badge&logo=code&logoColor=white
+
+
+## 🧠 My Focus Areas
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/developer/developer-plain.svg" width="18" /> Development  
+- <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="18" /> Security & Cybersecurity 
 
 ## 🧠 My Focus Areas
 
