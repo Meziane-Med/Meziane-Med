@@ -1,14 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Mo&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Meziane-Med">
-    <img src="https://komarev.com/ghpvc/?username=Meziane-Med&label=Profile%20views&color=00FFFF&style=flat-square" alt="Meziane-Med's profile views" />
-  </a>
-</p>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Mo</h1>
 
 ## 🧠 My Focus Areas
 - Development
-
+- Cybersecurity
 
 ## 🛠️ Languages & Tools
 
@@ -59,12 +53,6 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 
-</p>
-
-<p align="center">
-  <a href="https://github.com/Meziane-Med">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Meziane-Med&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
 </p>
 
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
